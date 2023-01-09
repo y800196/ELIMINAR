@@ -1,2 +1,2 @@
-# hyperblogNO-VA
+# ELMINAR
 Curso Platzi Git y Github
